@@ -1,4 +1,4 @@
-## Proyecto de Estructuras de Datos Aplicadas
+## Estructura de Datos Aplicadas
 
 Este repositorio contiene el desarrollo y análisis de distintos escenarios prácticos orientados al uso de estructuras de datos fundamentales, como listas enlazadas, pilas y colas, aplicadas a contextos reales dentro del ámbito educativo, tecnológico y comunitario.
 
